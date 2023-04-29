@@ -3,7 +3,8 @@ Automatically edits videos. Explanation here: https://www.youtube.com/watch?v=DQ
 
 Go here for a more polished version of this software that my friends and I have been working on fr the last year or so: https://jumpcutter.com/
 
-
+##GUI
+Developed using tkinter. This is just the first draft. Looking to make it an android app in the future.
 
 ## Some heads-up:
 
